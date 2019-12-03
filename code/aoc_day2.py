@@ -1,4 +1,4 @@
-filepath = 'day2input.txt'
+filepath = '../input/day2input.txt'
 
 def decode(op_l):
 	for x in xrange(0,len(op_l), 4):

@@ -1,4 +1,4 @@
-filepath = 'day3input.txt'
+filepath = '../input/day3input.txt'
 
 def execute_moves(m):
 	x_coordinate = 0 

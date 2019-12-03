@@ -1,4 +1,4 @@
-filepath = 'day1input.txt'
+filepath = '../input/day1input.txt'
 
 def fuel_needed(mass):
 	fuel = (mass / 3) - 2 
